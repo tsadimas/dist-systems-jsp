@@ -61,6 +61,8 @@ public class Database {
 
 H User class για να χειρίζόμαστε τα δεδομένα από τις φόρμες:
 
+
+
 package hua;
 
 import java.text.ParseException;
@@ -595,7 +597,7 @@ public class UserManager {
 
 
 
-αν θέλουμε να δημιουργήσουμε ένα υπποτυπώδες μενού, δημιουργούμε μια σελίδα memnu.jsp 
+αν θέλουμε να δημιουργήσουμε ένα υποτυπώδες μενού, δημιουργούμε μια σελίδα memnu.jsp 
 
 <nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
